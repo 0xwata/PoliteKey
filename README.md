@@ -1,4 +1,5 @@
 # PoliteKey
+<img width="785" alt="スクリーンショット 2025-01-20 12 21 10" src="https://github.com/user-attachments/assets/9553bf0d-a13b-4bc1-9071-91056eaa17b1" />
 
 PoliteKeyは、選択したテキストを丁寧な表現に変換するElectronアプリケーションです。OpenAIのAPIを使用して、テキストをより親しみやすい表現に変換します。
 
